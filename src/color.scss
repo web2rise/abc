@@ -1,0 +1,55 @@
+/* --------------------- primary background colors hexa ------------------------------- */
+.pbc1 { background-color: #20A397 !important;}
+.pbc2 { background-color: #FE5246 !important;}
+.pbc3 { background-color: #3e3e3e !important;}
+.pbc4 { background-color: #B2B2B2 !important;}
+/* --------------------- Secondary background colors hexa ------------------------------- */
+.sbc1 { background-color: #2196F3;}
+.sbc2 { background-color: #FAC22E;}
+.sbc3 { background-color: #4CAF50;}
+.sbc4 { background-color: #D4D4D4;}
+.sbc5 { background-color: #f2f2f2;}
+.sbc6 { background-color: #f07c00;}
+.sbcw { background-color: #FFFFFF;}
+.sbc7 { background-color: #e4e4e4}
+/* --------------------- primary font colors hexa ------------------------------- */
+.pfc1 { color: #20A397 !important;}
+.pfc2 { color: #FE5246 !important;}
+.pfc3 { color: #3E3E3E !important;}
+.pfc4 { color: #B2B2B2 !important;}
+.pfc5 { color: #009688 !important;}
+/* --------------------- Secondary font colors hexa ------------------------------- */
+.sfc1 { color: #2196F3;}
+.sfc2 { color: #FAC22E;}
+.sfc3 { color: #4CAF50;}
+.sfc4 { color: #D4D4D4;}
+.sfc5 { color: #EFEFEF;}
+.sfc6 { color: #f07c00;}
+.sfcw { color: #FFFFFF;}
+.contentBackground {
+  background-color: rgba(242, 242, 242, 0.6);
+}
+
+/* ================== Agent Dashboard ===================== */
+/* == Agent Primary Color == */
+$apc1 : #56c4c1;
+$apc2 : #eaf1f1;
+$apc3 : #fe7774;
+.apbc1 {
+  background: $apc1;
+}
+.apbc2 {
+  background: $apc2;
+}
+.apbc3 {
+  background: $apc3;
+}
+.apfc1 {
+  color: $apc1;
+}
+.apfc2 {
+  color: $apc2;
+}
+.apfc3 {
+  color: $apc3;
+}
