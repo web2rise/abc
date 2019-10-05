@@ -1,0 +1,21 @@
+
+.flex{
+  display: flex;
+}
+.menu{
+  margin: 0;
+  padding: 0;
+}
+.menu li{
+  display: inline;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.w100{
+  width: 100px;
+}
+.space-between{
+  justify-content: space-between;
+}
+.pl50{padding-left: 50px;}
+.pr50{padding-right: 50px;}
